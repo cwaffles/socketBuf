@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+#custom
+.idea/
+cmake-build-debug
+nanopb
+nanopb-0.3.9-linux-x86
